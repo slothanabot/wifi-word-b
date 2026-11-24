@@ -1,5 +1,9 @@
 # ForgotAgain — One Word for Your Wi-Fi
 
+[![make.fun · u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72?utm_source=github&utm_medium=readme&utm_campaign=u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
+[![rank](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/slothanabot/wifi-word-b/rank.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
+[![reward](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/slothanabot/wifi-word-b/reward.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72?utm_source=github&utm_medium=readme&utm_campaign=u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
+
 **Entry word:** `ForgotAgain` (11 characters)
 
 ## The idea
@@ -29,7 +33,7 @@ cat /output/entry.txt   # ForgotAgain
 ## Gate compliance
 
 The sealed scorer requires `/output/entry.txt` to be UTF-8 text of
-1–20 characters, not only whitespace. This entry is 10 characters.
+1–20 characters, not only whitespace. This entry is 11 characters.
 
 ## Competition
 
